@@ -1,2 +1,2 @@
 # Algorithms
-A repo for various algorithms, Hacker Rank, and Leetcode problems (Python)
+A repo for various algorithms and Hacker Rank practice problems (Python)
