@@ -1,4 +1,6 @@
-def binary_search(sorted_array, target):
+from typing import List
+
+def binary_search(sorted_array: List[int], target: int) -> int:
     """
     Args: 
         sorted_array (list) - a sorted array A of n integers such that A_0 <= A_1 <= A_2 . . . A_{n-1} 
